@@ -1,3 +1,17 @@
+/*****************************************************
+Class:  Broker.java
+Author: XXXX
+Version: 0.1.7
+Control Change:
+0.1.0 Añadimos los métodos XXXX, XXXXX, XXXX
+0.1.1: Corregirmos el defecto XXXX en la clase XXXX
+....
+0.1.7: Corregimos XXXX 
+
+
+***************************************************/
+
+
 package Persistence;
 import java.sql.*;
 
